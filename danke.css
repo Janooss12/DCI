@@ -1,0 +1,53 @@
+* {
+    padding: 0;
+    margin: 0;
+
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    overflow: auto;
+    background-color: blueviolet;
+    background-image: url(danke22.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center bottom;
+}
+
+
+
+.content-wrapper img {
+    width: 100%;
+
+}
+
+
+
+.text-wrapper {
+    width: 35%;
+    height: 30%;
+    position: absolute;
+    top: 40%;
+    left: 40%;
+
+}
+
+.text-wrapper h1 {
+    text-align: center;
+    color: lightslategray;
+    font-size: 40px;
+    font-family: 'Lobster', cursive;
+
+}
+
+.h2h {
+    margin: 15% 0% 0% 0%;
+
+    background-size: auto;
+    background-position: center bottom;
+    color: lightslategray;
+    width: %;
+    font-family: 'Lobster', cursive;
+
+}
